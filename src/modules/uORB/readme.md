@@ -735,6 +735,5 @@ int px4_simple_app_main(int argc, char *argv[])
 [PX4/Pixhawk--uORB深入理解和应用](http://blog.csdn.net/FreeApe/article/details/46880637)  
 [Pixhawk---在cmake编译方式下新建一个自定义主题](http://blog.csdn.net/xinyu3307/article/details/52195535)  
 [Pixhawk---通过串口方式添加一个自定义传感器（超声波为例）](http://blog.csdn.net/freeape/article/details/47837415)  
-[pixhawk飞控中添加uORB主题](http://blog.csdn.net/u014666004/article/details/51260392)
-
+[pixhawk飞控中添加uORB主题](http://blog.csdn.net/u014666004/article/details/51260392)  
    
